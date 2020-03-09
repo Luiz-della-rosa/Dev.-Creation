@@ -1,0 +1,29 @@
+.formulario{
+	background-color:white;
+	border:solid black;
+	width:390px;
+	height:360px;
+	position:absolute;
+	top:20%;
+	left:35%;
+}
+.Ficha{
+	width:150;
+	height:30px;
+}
+
+
+.bt{
+	border:1px solid black;
+border-radius:5px;
+display:inline-block;
+cursor:pointer;
+font-family:Verdana;
+color:white;
+font-weight:bold;
+font-size:13px;
+padding:6px 10px;
+text-decoration:none;
+background-color:#1E90FF;
+
+}
